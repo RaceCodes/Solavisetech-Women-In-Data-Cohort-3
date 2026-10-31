@@ -12,7 +12,7 @@ I am passionate about technology, personal development and discovering innovativ
 
 I believe that learning is a continuous journey, and I am always eager to explore new opportunities, challenge myself and grow. Joining the SolaviseTech Women in Data Cohort 3 is an exciting opportunity for me to step into the world of data, develop valuable technical skills, and expand my knowledge beyond the classroom.
 
-# About the Program
+# 📊About the Program
 
 The SolaviseTech Women in Data Program is an exciting learning opportunity designed to help me build practical knowledge and develop essential skills in the world of data.
 
@@ -46,8 +46,8 @@ I understand that every learning journey comes with challenges, discoveries, and
 
 I am not here just to complete a program. I am here to build skills, develop confidence, explore possibilities, and prepare myself to make meaningful contributions through technology and data.
 
-### One lesson at a time. One project at a time. One milestone at a time.
+#### One lesson at a time. One project at a time. One milestone at a time.
 
 Learning today, analysing tomorrow and creating impact with data!
 
-Thank you for stopping by. Feel free to explore my repository and follow along as I grow!
+**_Thank you for stopping by. Feel free to explore my repository and follow along as I grow!_**
