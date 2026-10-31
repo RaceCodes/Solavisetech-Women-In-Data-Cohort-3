@@ -1,4 +1,4 @@
-# 🌸Solavisetech-Women-In-Data-Cohort-3
+# 🌸SOLAVISETECH WOMEN IN DATA - COHORT 3
 
 ### Welcome to my learning journey! 🚀
 
